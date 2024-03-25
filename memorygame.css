@@ -1,0 +1,22 @@
+#game div {
+    border: 1px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    
+  }
+body {
+    background-color: rgba(10, 10, 10, .8);
+}
+h1 {
+    text-align: center;
+    color: rgba(240, 240, 255, 1);
+  }
+
+.front {
+
+}
+.back {
+background-image: url(backdrop.jpg);
+}
